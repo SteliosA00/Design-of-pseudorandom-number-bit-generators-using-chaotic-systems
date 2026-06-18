@@ -1,4 +1,3 @@
-%% Chebyshev map 
 clear
 x(1) = 0.5; 
 k = 2; 
