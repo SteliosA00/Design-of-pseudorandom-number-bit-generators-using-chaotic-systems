@@ -1,5 +1,4 @@
-%% Renyi map
-clear
+clear;
 x(1) = rand;
 beta = 1.5; 
 N = 10^5;
